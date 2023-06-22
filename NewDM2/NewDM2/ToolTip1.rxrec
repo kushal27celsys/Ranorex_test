@@ -1,0 +1,1293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="bfed3c54-6d50-4f21-82c2-b864014c2c74"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ToolTip1"
+	namespace="NewDM2">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="11;3"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="8c42166f-0318-4de4-bd75-fba065d8e988"
+		sx="1887"
+		sy="110"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="34ce331a-9eec-431c-8376-fb43e462d2c8"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="True"
+				index="4"
+				prefcap="checkbox"
+				rect="1876,107,23,20"
+				role="checkbox"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="checked"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="checkstate"
+					type="System.Windows.Forms.CheckState, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Unchecked
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Show Details
+					</attribute>
+					<attribute
+					name="accessibledefaultaction"
+					type="System.String">
+						Press
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Show Details
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						CheckButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Focused, HotTracked, Focusable
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//checkbox[@accessiblename='Show Details']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="e3f32ad0-af7c-49c6-9691-555d8bfeeba8">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="9;8"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="78ac89a8-9b1c-4338-ab81-685f2c246109"
+		sx="1885"
+		sy="115"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="34ce331a-9eec-431c-8376-fb43e462d2c8"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="True"
+				index="4"
+				prefcap="checkbox"
+				rect="1876,107,23,20"
+				role="checkbox"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="checked"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="checkstate"
+					type="System.Windows.Forms.CheckState, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Unchecked
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Show Details
+					</attribute>
+					<attribute
+					name="accessibledefaultaction"
+					type="System.String">
+						Press
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Show Details
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						CheckButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Focused, HotTracked, Focusable
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//checkbox[@accessiblename='Show Details']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="d38f5f5e-8b65-4436-931d-1a601b10f8de">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="9;8"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="8e0d8d15-6d38-4456-9d7a-e3bab131b5f4"
+		sx="1885"
+		sy="115"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="34ce331a-9eec-431c-8376-fb43e462d2c8"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="True"
+				index="4"
+				prefcap="checkbox"
+				rect="1876,107,23,20"
+				role="checkbox"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="checked"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="checkstate"
+					type="System.Windows.Forms.CheckState, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Checked
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Show Details
+					</attribute>
+					<attribute
+					name="accessibledefaultaction"
+					type="System.String">
+						Press
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Show Details
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						CheckButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						Focused, Checked, HotTracked, Focusable
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//checkbox[@accessiblename='Show Details']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="c4a1c432-15aa-4328-9f53-c81043c9ebd9">
+				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
+9XKAG7j/AHG/T/Gjcf7jfp/jTqKAP//Z
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Down"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="0;13"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="95c37ee4-0a9d-48cf-9a9e-b5caa6ca7604"
+		sx="633"
+		sy="141"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="55e8006f-6c1e-4b5d-ada6-0fa2b54516c8"
+			sourcename="Recorder">
+				<element
+				capabilities="uiautomation, uiautomationscrollitem"
+				dontcache="False"
+				enabled="True"
+				flavor="uia"
+				hasfocus="False"
+				index="9"
+				prefcap="cell"
+				rect="633,128,33,24"
+				role="cell"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="isheader"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="automationid"
+					type="System.String">
+						[Column Header] TotalActiveAlertCount
+					</attribute>
+					<attribute
+					name="controltype"
+					type="System.String">
+						HeaderItem
+					</attribute>
+					<attribute
+					name="frameworkid"
+					type="System.String">
+						WinForm
+					</attribute>
+					<attribute
+					name="iscontentelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iscontrolelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iskeyboardfocusable"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="ispassword"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="itemstatus"
+					type="System.String">
+						&#32;!IG_DATA_START!ObjectIdentifier^IG_TOKEN_SEPERATOR^Infragistics.Win.UltraWinGrid.RowColRegionIntersectionUIElement+HeaderUiaProviderStub^IG_TOKEN_DELIMETER^AssemblyVersion^IG_TOKEN_SEPERATOR^21.2.20212.46^IG_TOKEN_DELIMETER^IsRootStub^IG_TOKEN_SEPERATOR^False^IG_TOKEN_SEPERATOR^4^IG_TOKEN_DELIMETER^!IG_DATA_END!
+					</attribute>
+					<attribute
+					name="localizedcontroltype"
+					type="System.String">
+						header item
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="orientation"
+					type="System.Windows.Automation.OrientationType, UIAutomationTypes, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+						None
+					</attribute>
+					<attribute
+					name="processid"
+					type="System.Int32">
+						15172
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="723f1b17-9bc1-424a-8e77-ce2a41359aeb">
+				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
+iigAooooAKKKKACiiigAooooA//Z
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Up"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="0;13"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="4f99ec3a-7b4c-479b-bc89-f8ea296b0549"
+		sx="633"
+		sy="142"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="55e8006f-6c1e-4b5d-ada6-0fa2b54516c8"
+			sourcename="Recorder">
+				<element
+				capabilities="uiautomation, uiautomationscrollitem"
+				dontcache="False"
+				enabled="True"
+				flavor="uia"
+				hasfocus="False"
+				index="9"
+				prefcap="cell"
+				rect="633,128,33,24"
+				role="cell"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="isheader"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="automationid"
+					type="System.String">
+						[Column Header] TotalActiveAlertCount
+					</attribute>
+					<attribute
+					name="controltype"
+					type="System.String">
+						HeaderItem
+					</attribute>
+					<attribute
+					name="frameworkid"
+					type="System.String">
+						WinForm
+					</attribute>
+					<attribute
+					name="iscontentelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iscontrolelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iskeyboardfocusable"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="ispassword"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="itemstatus"
+					type="System.String">
+						&#32;!IG_DATA_START!ObjectIdentifier^IG_TOKEN_SEPERATOR^Infragistics.Win.UltraWinGrid.RowColRegionIntersectionUIElement+HeaderUiaProviderStub^IG_TOKEN_DELIMETER^AssemblyVersion^IG_TOKEN_SEPERATOR^21.2.20212.46^IG_TOKEN_DELIMETER^IsRootStub^IG_TOKEN_SEPERATOR^False^IG_TOKEN_SEPERATOR^4^IG_TOKEN_DELIMETER^!IG_DATA_END!
+					</attribute>
+					<attribute
+					name="localizedcontroltype"
+					type="System.String">
+						header item
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="orientation"
+					type="System.Windows.Automation.OrientationType, UIAutomationTypes, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+						None
+					</attribute>
+					<attribute
+					name="processid"
+					type="System.Int32">
+						15172
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="723f1b17-9bc1-424a-8e77-ce2a41359aeb">
+				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
+iigAooooAKKKKACiiigAooooA//Z
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Down"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="189;14"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="d338b239-a370-442f-a8bf-1ce91ccd28c3"
+		sx="633"
+		sy="142"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="55e8006f-6c1e-4b5d-ada6-0fa2b54516c8"
+			sourcename="Recorder">
+				<element
+				capabilities="uiautomation, uiautomationscrollitem"
+				dontcache="False"
+				enabled="True"
+				flavor="uia"
+				hasfocus="False"
+				index="9"
+				prefcap="cell"
+				rect="444,128,33,24"
+				role="cell"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="isheader"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="automationid"
+					type="System.String">
+						[Column Header] TotalActiveAlertCount
+					</attribute>
+					<attribute
+					name="controltype"
+					type="System.String">
+						HeaderItem
+					</attribute>
+					<attribute
+					name="frameworkid"
+					type="System.String">
+						WinForm
+					</attribute>
+					<attribute
+					name="iscontentelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iscontrolelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iskeyboardfocusable"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="ispassword"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="itemstatus"
+					type="System.String">
+						&#32;!IG_DATA_START!ObjectIdentifier^IG_TOKEN_SEPERATOR^Infragistics.Win.UltraWinGrid.RowColRegionIntersectionUIElement+HeaderUiaProviderStub^IG_TOKEN_DELIMETER^AssemblyVersion^IG_TOKEN_SEPERATOR^21.2.20212.46^IG_TOKEN_DELIMETER^IsRootStub^IG_TOKEN_SEPERATOR^False^IG_TOKEN_SEPERATOR^4^IG_TOKEN_DELIMETER^!IG_DATA_END!
+					</attribute>
+					<attribute
+					name="localizedcontroltype"
+					type="System.String">
+						header item
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="orientation"
+					type="System.Windows.Automation.OrientationType, UIAutomationTypes, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+						None
+					</attribute>
+					<attribute
+					name="processid"
+					type="System.Int32">
+						15172
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//element[@controlname='detailsGrid']/element[@automationid='Data Area']/tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="9932e8e5-f979-47df-b940-e27ed87fdd42">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Up"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="25;36"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="7b7f2d2a-b126-4373-b553-d555f15e0f36"
+		sx="469"
+		sy="164"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="55e8006f-6c1e-4b5d-ada6-0fa2b54516c8"
+			sourcename="Recorder">
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//element[@controlname='detailsGrid']/element[@automationid='Data Area']/tree/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Down"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="472;178"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="a3682ab5-c8e5-45c7-9e0b-3f77396ceaef"
+		sx="472"
+		sy="178"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="55e8006f-6c1e-4b5d-ada6-0fa2b54516c8"
+			sourcename="Recorder">
+				<element
+				capabilities="uiautomation, uiautomationscrollitem"
+				dontcache="False"
+				enabled="True"
+				flavor="uia"
+				hasfocus="False"
+				index="9"
+				prefcap="cell"
+				rect="0,0,0,0"
+				role="cell"
+				snapElem=""
+				valid="True"
+				visible="False">
+					<attribute
+					name="isheader"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="automationid"
+					type="System.String">
+						[Column Header] TotalActiveAlertCount
+					</attribute>
+					<attribute
+					name="controltype"
+					type="System.String">
+						HeaderItem
+					</attribute>
+					<attribute
+					name="frameworkid"
+					type="System.String">
+						WinForm
+					</attribute>
+					<attribute
+					name="iscontentelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iscontrolelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iskeyboardfocusable"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="ispassword"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="itemstatus"
+					type="System.String">
+						&#32;!IG_DATA_START!ObjectIdentifier^IG_TOKEN_SEPERATOR^Infragistics.Win.UltraWinGrid.RowColRegionIntersectionUIElement+HeaderUiaProviderStub^IG_TOKEN_DELIMETER^AssemblyVersion^IG_TOKEN_SEPERATOR^21.2.20212.46^IG_TOKEN_DELIMETER^IsRootStub^IG_TOKEN_SEPERATOR^False^IG_TOKEN_SEPERATOR^4^IG_TOKEN_DELIMETER^!IG_DATA_END!
+					</attribute>
+					<attribute
+					name="localizedcontroltype"
+					type="System.String">
+						header item
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						Alert
+					</attribute>
+					<attribute
+					name="orientation"
+					type="System.Windows.Automation.OrientationType, UIAutomationTypes, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+						None
+					</attribute>
+					<attribute
+					name="processid"
+					type="System.Int32">
+						15172
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//element[@controlname='detailsGrid']/element[@automationid='Data Area']/tree/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="28;9"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="eead10f9-4c73-4b52-a98e-91a462499106"
+		sx="468"
+		sy="202"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="7a72a39d-f8f5-458a-8f7f-e4ba54a77dff"
+			sourcename="Recorder">
+				<element
+				capabilities="uiautomation, uiautomationvalue"
+				dontcache="False"
+				enabled="True"
+				flavor="uia"
+				hasfocus="False"
+				index="0"
+				prefcap="text"
+				rect="440,193,54,17"
+				role="text"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="automationid"
+					type="System.String">
+						[Editor] Edit Area
+					</attribute>
+					<attribute
+					name="controltype"
+					type="System.String">
+						Edit
+					</attribute>
+					<attribute
+					name="frameworkid"
+					type="System.String">
+						WinForm
+					</attribute>
+					<attribute
+					name="iscontentelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iscontrolelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iskeyboardfocusable"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="ispassword"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="itemstatus"
+					type="System.String">
+						&#32;!IG_DATA_START!ObjectIdentifier^IG_TOKEN_SEPERATOR^Infragistics.Win.EmbeddableEditorBase+EmbeddableEditorUIAProviderStub+EditAreaUIAProviderStub^IG_TOKEN_DELIMETER^AssemblyVersion^IG_TOKEN_SEPERATOR^21.2.20212.46^IG_TOKEN_DELIMETER^IsRootStub^IG_TOKEN_SEPERATOR^False^IG_TOKEN_SEPERATOR^4^IG_TOKEN_DELIMETER^!IG_DATA_END!
+					</attribute>
+					<attribute
+					name="localizedcontroltype"
+					type="System.String">
+						edit
+					</attribute>
+					<attribute
+					name="orientation"
+					type="System.Windows.Automation.OrientationType, UIAutomationTypes, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+						None
+					</attribute>
+					<attribute
+					name="processid"
+					type="System.Int32">
+						15172
+					</attribute>
+					<attribute
+					name="uiautomationvalueisreadonly"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="uiautomationvaluevalue"
+					type="System.String">
+						CELSYSBLR000241\MSSQLSERVER_16
+					</attribute>
+				</element>
+				<path>
+					/form[@title&gt;'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/treeitem[@automationid='2']/text[@automationid='15']/text[@automationid='[Editor] Edit Area']
+				</path>
+				<robustPath>
+					/form[@name&gt;'IDERA SQL Diagnostic Manager']//text[@name='Instance' and @itemstatus=' !IG_DATA_START!ObjectIdentifier^IG_TOKEN_SEPERATOR^Infragistics.Win.UltraWinGrid.RowColRegionIntersectionUIElement+CellUiaProviderStub^IG_TOKEN_DELIMETER^AssemblyVersion^IG_TOKEN_SEPERATOR^21.2.20212.46^IG_TOKEN_DELIMETER^IsRootStub^IG_TOKEN_SEPERATOR^False^IG_TOKEN_SEPERATOR^4^IG_TOKEN_DELIMETER^DisplayText^IG_TOKEN_SEPERATOR^CELSYSBLR000241\MSSQLSERVER_16^IG_TOKEN_DELIMETER^!IG_DATA_END!']/text[@automationid='[Editor] Edit Area']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="2c0a4391-b8eb-4823-8c4a-3af10457ef13">
+				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
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="f23ca0c5-df30-413e-8505-f62244f4e60c"
+	name="NewDM2Repository"
+	relativepath="NewDM2Repository.rxrep">
+		<codegen
+		classname="NewDM2Repository"
+		namespace="NewDM2">
+		</codegen>
+		<rootfolder
+		id="a7e4b245-c6e1-4077-8b08-fc349955bf82"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ToolTip1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

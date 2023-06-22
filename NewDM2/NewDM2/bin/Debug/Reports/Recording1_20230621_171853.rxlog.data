@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="43.93s"
+		durationms="43933"
+		type="root"
+		rid="1b48cd0eeacb942"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-06-2023 17:18:56"
+		timestampiso="2023-06-21T11:48:56"
+		endtime="21-06-2023 17:19:40"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Failed to find item 'NewDM2Repository.StaticViewPropertiesDialog.PnlForm'. Please check that your whitelist allows Ranorex to access the process.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.360"
+			timeRelativeToTestModuleStartTime="00:06.360"
+			timeWallClock="17:19:02"
+			time="00:06.360"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu' at 12;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				itempath="container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu"
+				id="6bc8bf835dbf4cb39946b03bd94555da"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.220"
+			timeRelativeToTestModuleStartTime="00:08.220"
+			timeWallClock="17:19:04"
+			time="00:08.220"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SQLdmDesktopClient.CreateView' at 35;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='SQLdmDesktopClient']/?/?/text[@caption='Create View']"
+				itempath="?/?/text[@caption='Create View']"
+				fullname="NewDM2Repository.SQLdmDesktopClient.CreateView"
+				id="c991b86909364b83b0b9601864951790"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.983"
+			timeRelativeToTestModuleStartTime="00:08.983"
+			timeWallClock="17:19:05"
+			time="00:08.983"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.Text' at 190;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.Text"
+				id="90d9e2dc2c424aad980413e2dd7b8667"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.936"
+			timeRelativeToTestModuleStartTime="00:10.936"
+			timeWallClock="17:19:07"
+			time="00:10.936"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'demo' with focus on 'StaticViewPropertiesDialog.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.Text"
+				id="90d9e2dc2c424aad980413e2dd7b8667"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.437"
+			timeRelativeToTestModuleStartTime="00:11.437"
+			timeWallClock="17:19:07"
+			time="00:11.437"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.ChkAll' at 3;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']/container[@controlname='customCheckedFilterListBox']/container[@caption='']//checkbox[@text='All']"
+				itempath="container[@caption='']/container[@controlname='customCheckedFilterListBox']/container[@caption='']//checkbox[@text='All']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.ChkAll"
+				id="e285125b9eef476caa1e83127ac8a238"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.250"
+			timeRelativeToTestModuleStartTime="00:12.250"
+			timeWallClock="17:19:08"
+			time="00:12.250"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.AddButton' at 29;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']/?/?/button[@text='   Add >    ']"
+				itempath="container[@caption='']/?/?/button[@text='   Add >    ']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.AddButton"
+				id="666e44a3528643aeaa5dd5a3f8b3c8c2"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.989"
+			timeRelativeToTestModuleStartTime="00:12.989"
+			timeWallClock="17:19:09"
+			time="00:12.989"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.OkButton' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/button[@text='Create']"
+				itempath="button[@text='Create']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.OkButton"
+				id="b1cbdebee89847f283e74d9bc704f420"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.640"
+			timeRelativeToTestModuleStartTime="00:13.640"
+			timeWallClock="17:19:09"
+			time="00:13.640"
+			level="Info"
+			category="Mouse"
+			errimg="images_Recordin_296d1f5a\Recordin_296d1f5a_3baed275_trace.jpg"
+			errthumb="images_Recordin_296d1f5a\Recordin_296d1f5a_3baed275_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.PnlForm' at 543;68.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']"
+				itempath="container[@caption='']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.PnlForm"
+				id="6d16258b548c4c889b1b2e77d669c93a"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.663"
+			timeRelativeToTestModuleStartTime="00:43.663"
+			timeWallClock="17:19:39"
+			time="00:43.663"
+			level="Info"
+			category="User"
+			errimg="images_Recordin_296d1f5a\Recordin_296d1f5a_d0f4d48b_trace.jpg"
+			errthumb="images_Recordin_296d1f5a\Recordin_296d1f5a_d0f4d48b_trace_thumb.jpg">
+			<message>
+				Item 'PnlForm' was found using Robust path.
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="111"
+				loglvl="Info"
+				itemindex="7">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.739"
+			timeRelativeToTestModuleStartTime="00:43.739"
+			timeWallClock="17:19:39"
+			time="00:43.739"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_296d1f5a\Recordin_296d1f5a_be6cd368_trace.jpg"
+			errthumb="images_Recordin_296d1f5a\Recordin_296d1f5a_be6cd368_trace_thumb.jpg">
+			<message>
+				Failed to find item 'NewDM2Repository.StaticViewPropertiesDialog.PnlForm'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path 'container[@caption='']' at step 'container[@caption='']' after 540 attempts within 30s.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass81_0`1.&lt;Find>b__0()&#13;&#10;   at Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   at NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.get_PnlForm() in C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\NewDM2Repository.cs:line 417&#13;&#10;   at NewDM2.Recording1.Ranorex.Core.Testing.ITestModule.Run() in C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs:line 111&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="111"
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']"
+				itempath="container[@caption='']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.PnlForm"
+				id="6d16258b548c4c889b1b2e77d669c93a"
+				timeout="60000"
+				failedStep="container[@caption='']"
+				bestPathPrefix=""
+				loglvl="Error"
+				itemindex="7">
+			</metainfo>
+		</item>
+	</activity>
+</report>

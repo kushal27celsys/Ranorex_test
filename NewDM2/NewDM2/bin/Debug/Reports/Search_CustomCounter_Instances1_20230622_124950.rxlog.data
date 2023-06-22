@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.7m"
+		durationms="104798"
+		type="root"
+		rid="b7a6ecbd35fcbc8"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="22-06-2023 12:49:52"
+		timestampiso="2023-06-22T07:19:52"
+		endtime="22-06-2023 12:51:36"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Search_CustomCounter_Instances1">
+		<detail>
+			Search_CustomCounter_Instances1
+		</detail>
+		<errormessage>
+			Failed to find item 'NewDM2Repository.CustomSearchDialogBox.SplitContainer1.Text'. Please check that your whitelist allows Ranorex to access the process.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.857"
+			timeRelativeToTestModuleStartTime="00:04.857"
+			timeWallClock="12:49:57"
+			time="00:04.857"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.Administration' at 54;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']//tabpagelist[@automationid='topMenu']/tabpage[@automationid='administrationMenu']/text[@caption='Administration']"
+				itempath=".//tabpagelist[@automationid='topMenu']/tabpage[@automationid='administrationMenu']/text[@caption='Administration']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.Administration"
+				id="ba495f1ee5ec4337b63f14d19c1d5876"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.374"
+			timeRelativeToTestModuleStartTime="00:06.374"
+			timeWallClock="12:49:58"
+			time="00:06.374"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel' at 47;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel"
+				id="1ef7ec1584994fa2939f57b3c8d59daa"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.421"
+			timeRelativeToTestModuleStartTime="00:07.421"
+			timeWallClock="12:49:59"
+			time="00:07.421"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.ButtonGroupCustomCountersToolsToo' at 16;21.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//container[@automationid='Ribbon']/container[@automationid='Lower Ribbon']/container[@automationid='Group : CustomCounters']/button[@automationid='[Group : CustomCounters Tools] Tool : createCounterButton - Index : 0 ']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//container[@automationid='Ribbon']/container[@automationid='Lower Ribbon']/container[@automationid='Group : CustomCounters']/button[@automationid='[Group : CustomCounters Tools] Tool : createCounterButton - Index : 0 ']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.ButtonGroupCustomCountersToolsToo"
+				id="d7ef46e1d8dd4aeab41917b3044a7cbb"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.223"
+			timeRelativeToTestModuleStartTime="00:11.223"
+			timeWallClock="12:50:03"
+			time="00:11.223"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'CustomCounterWizard.NextButton' at 40;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Custom Counter']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.CustomCounterWizard.NextButton"
+				id="2251c85217154167afd3488aead97a4c"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.153"
+			timeRelativeToTestModuleStartTime="00:12.153"
+			timeWallClock="12:50:04"
+			time="00:12.153"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'CustomCounterWizard.NextButton' at 40;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Custom Counter']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.CustomCounterWizard.NextButton"
+				id="2251c85217154167afd3488aead97a4c"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.804"
+			timeRelativeToTestModuleStartTime="00:12.804"
+			timeWallClock="12:50:04"
+			time="00:12.804"
+			level="Info"
+			category="Mouse"
+			errimg="images_Search_C_46ec110\Search_C_46ec110_80101ebc_trace.jpg"
+			errthumb="images_Search_C_46ec110\Search_C_46ec110_80101ebc_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'CustomCounterWizard.InstanceName' at 417;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Custom Counter']/?/?/container[@controlname='ultraTabWmiCounterPage']/container[@controlname='wmiCounterPage']//combobox[@controlname='wmiServeSearchBox']/text[@name='Instance Name:']"
+				itempath="?/?/container[@controlname='ultraTabWmiCounterPage']/container[@controlname='wmiCounterPage']//combobox[@controlname='wmiServeSearchBox']/text[@name='Instance Name:']"
+				fullname="NewDM2Repository.CustomCounterWizard.InstanceName"
+				id="e0d4476cb7e84343a3626ae14691dd4a"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.637"
+			timeRelativeToTestModuleStartTime="00:14.637"
+			timeWallClock="12:50:06"
+			time="00:14.637"
+			level="Info"
+			category="Mouse"
+			errimg="images_Search_C_46ec110\Search_C_46ec110_681701d2_trace.jpg"
+			errthumb="images_Search_C_46ec110\Search_C_46ec110_681701d2_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'CustomSearchDialogBox.SplitContainer1.Text' at 107;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Instance List']/container[@caption='']/container[@caption='']//text[@accessiblerole='Text']"
+				itempath=".//text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.CustomSearchDialogBox.SplitContainer1.Text"
+				id="e578af5d15564515998b012d4a45071f"
+				timeout="90000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:44.726"
+			timeRelativeToTestModuleStartTime="01:44.726"
+			timeWallClock="12:51:36"
+			time="01:44.726"
+			level="Error"
+			category="Module"
+			errimg="images_Search_C_46ec110\Search_C_46ec110_c7f941e2_trace.jpg"
+			errthumb="images_Search_C_46ec110\Search_C_46ec110_c7f941e2_trace_thumb.jpg">
+			<message>
+				Failed to find item 'NewDM2Repository.CustomSearchDialogBox.SplitContainer1.Text'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path '/form[@title='Instance List']/container[@caption='']/container[@caption='']//text[@accessiblerole='Text']' at step 'form[@title='Instance List']' after 1249 attempts within 1.5m.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass81_0`1.&lt;Find>b__0()&#13;&#10;   at Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   at NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.get_Text() in C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\NewDM2Repository.cs:line 1035&#13;&#10;   at NewDM2.Search_CustomCounter_Instances1.Ranorex.Core.Testing.ITestModule.Run() in C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs:line 107&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="107"
+				type="repoitem"
+				path="/form[@title='Instance List']/container[@caption='']/container[@caption='']//text[@accessiblerole='Text']"
+				itempath=".//text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.CustomSearchDialogBox.SplitContainer1.Text"
+				id="e578af5d15564515998b012d4a45071f"
+				timeout="90000"
+				failedStep="form[@title='Instance List']"
+				bestPathPrefix=""
+				loglvl="Error"
+				itemindex="6">
+			</metainfo>
+		</item>
+	</activity>
+</report>

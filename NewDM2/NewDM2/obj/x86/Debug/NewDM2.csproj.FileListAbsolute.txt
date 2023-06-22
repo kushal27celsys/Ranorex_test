@@ -1,0 +1,12 @@
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\NewDM2.rxtmg
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\NewDM2.rxtst
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\NewDM2.exe.config
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\NewDM2.xml
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\NewDM2.exe
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\NewDM2.pdb
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\obj\x86\Debug\NewDM2.csproj.AssemblyReference.cache
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\obj\x86\Debug\NewDM2.csproj.CoreCompileInputs.cache
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\obj\x86\Debug\NewDM2.csproj.CopyComplete
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\obj\x86\Debug\NewDM2.exe
+C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\obj\x86\Debug\NewDM2.pdb

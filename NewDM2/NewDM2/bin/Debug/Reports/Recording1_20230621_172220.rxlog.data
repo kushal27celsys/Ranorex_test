@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="27.11s"
+		durationms="27109"
+		type="root"
+		rid="20e2e2d3c746840"
+		totalerrorcount="0"
+		totalwarningcount="6"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-06-2023 17:22:24"
+		timestampiso="2023-06-21T11:52:24"
+		endtime="21-06-2023 17:22:51"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.154"
+			timeRelativeToTestModuleStartTime="00:07.154"
+			timeWallClock="17:22:31"
+			time="00:07.154"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu' at 12;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				itempath="container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu"
+				id="6bc8bf835dbf4cb39946b03bd94555da"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.364"
+			timeRelativeToTestModuleStartTime="00:09.364"
+			timeWallClock="17:22:33"
+			time="00:09.364"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SQLdmDesktopClient.CreateView' at 35;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='SQLdmDesktopClient']/?/?/text[@caption='Create View']"
+				itempath="?/?/text[@caption='Create View']"
+				fullname="NewDM2Repository.SQLdmDesktopClient.CreateView"
+				id="c991b86909364b83b0b9601864951790"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.078"
+			timeRelativeToTestModuleStartTime="00:10.078"
+			timeWallClock="17:22:34"
+			time="00:10.078"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.Text' at 190;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.Text"
+				id="90d9e2dc2c424aad980413e2dd7b8667"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.881"
+			timeRelativeToTestModuleStartTime="00:11.881"
+			timeWallClock="17:22:35"
+			time="00:11.881"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'demo' with focus on 'StaticViewPropertiesDialog.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.Text"
+				id="90d9e2dc2c424aad980413e2dd7b8667"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.437"
+			timeRelativeToTestModuleStartTime="00:12.437"
+			timeWallClock="17:22:36"
+			time="00:12.437"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.ChkAll' at 3;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']/container[@controlname='customCheckedFilterListBox']/container[@caption='']//checkbox[@text='All']"
+				itempath="container[@caption='']/container[@controlname='customCheckedFilterListBox']/container[@caption='']//checkbox[@text='All']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.ChkAll"
+				id="e285125b9eef476caa1e83127ac8a238"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.215"
+			timeRelativeToTestModuleStartTime="00:13.215"
+			timeWallClock="17:22:37"
+			time="00:13.215"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.AddButton' at 29;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']/?/?/button[@text='   Add >    ']"
+				itempath="container[@caption='']/?/?/button[@text='   Add >    ']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.AddButton"
+				id="666e44a3528643aeaa5dd5a3f8b3c8c2"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.999"
+			timeRelativeToTestModuleStartTime="00:13.999"
+			timeWallClock="17:22:38"
+			time="00:13.999"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.OkButton' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/button[@text='Create']"
+				itempath="button[@text='Create']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.OkButton"
+				id="b1cbdebee89847f283e74d9bc704f420"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.777"
+			timeRelativeToTestModuleStartTime="00:14.777"
+			timeWallClock="17:22:38"
+			time="00:14.777"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView' at 146;175.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView"
+				id="c05f06de505943f794d0b3584ced417e"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.334"
+			timeRelativeToTestModuleStartTime="00:17.334"
+			timeWallClock="17:22:41"
+			time="00:17.334"
+			level="Warn"
+			category="Click"
+			errimg="images_Recordin_107193f4\Recordin_4a100b69_rxlog.jpg"
+			errthumb="images_Recordin_107193f4\Recordin_4a100b69_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="111"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.779"
+			timeRelativeToTestModuleStartTime="00:17.779"
+			timeWallClock="17:22:41"
+			time="00:17.779"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Click item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView' at 146;175.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView"
+				id="c05f06de505943f794d0b3584ced417e"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.093"
+			timeRelativeToTestModuleStartTime="00:19.093"
+			timeWallClock="17:22:43"
+			time="00:19.093"
+			level="Warn"
+			category="Click"
+			errimg="images_Recordin_107193f4\Recordin_beab0b69_rxlog.jpg"
+			errthumb="images_Recordin_107193f4\Recordin_beab0b69_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="115"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.512"
+			timeRelativeToTestModuleStartTime="00:19.512"
+			timeWallClock="17:22:43"
+			time="00:19.512"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView' at 146;175.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView"
+				id="c05f06de505943f794d0b3584ced417e"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.942"
+			timeRelativeToTestModuleStartTime="00:20.942"
+			timeWallClock="17:22:44"
+			time="00:20.942"
+			level="Warn"
+			category="MoveTo"
+			errimg="images_Recordin_107193f4\Recordin_60da0b69_rxlog.jpg"
+			errthumb="images_Recordin_107193f4\Recordin_60da0b69_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="119"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.281"
+			timeRelativeToTestModuleStartTime="00:21.281"
+			timeWallClock="17:22:45"
+			time="00:21.281"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Up item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView' at 214;231.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView"
+				id="c05f06de505943f794d0b3584ced417e"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="123"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.709"
+			timeRelativeToTestModuleStartTime="00:22.709"
+			timeWallClock="17:22:46"
+			time="00:22.709"
+			level="Warn"
+			category="MoveTo"
+			errimg="images_Recordin_107193f4\Recordin_d5750b69_rxlog.jpg"
+			errthumb="images_Recordin_107193f4\Recordin_d5750b69_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="124"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.046"
+			timeRelativeToTestModuleStartTime="00:23.046"
+			timeWallClock="17:22:47"
+			time="00:23.046"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Down item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView' at 152;297.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView"
+				id="c05f06de505943f794d0b3584ced417e"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="128"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.576"
+			timeRelativeToTestModuleStartTime="00:24.576"
+			timeWallClock="17:22:48"
+			time="00:24.576"
+			level="Warn"
+			category="MoveTo"
+			errimg="images_Recordin_107193f4\Recordin_1c7c0b69_rxlog.jpg"
+			errthumb="images_Recordin_107193f4\Recordin_1c7c0b69_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="129"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.932"
+			timeRelativeToTestModuleStartTime="00:24.932"
+			timeWallClock="17:22:48"
+			time="00:24.932"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Up item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView' at 880;498.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewsTreeView"
+				id="c05f06de505943f794d0b3584ced417e"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="133"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:26.766"
+			timeRelativeToTestModuleStartTime="00:26.766"
+			timeWallClock="17:22:50"
+			time="00:26.766"
+			level="Warn"
+			category="MoveTo"
+			errimg="images_Recordin_107193f4\Recordin_91170b69_rxlog.jpg"
+			errthumb="images_Recordin_107193f4\Recordin_91170b69_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="134"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+	</activity>
+</report>

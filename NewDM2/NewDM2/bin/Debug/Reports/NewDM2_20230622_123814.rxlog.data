@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="2.6m"
+		durationms="158887"
+		type="root"
+		rid="9c8dfbb3e0d5cdb"
+		totalerrorcount="0"
+		totalwarningcount="12"
+		totalsuccesstestcasecount="1"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="1"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="1"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="22-06-2023 12:38:14"
+		timestampiso="2023-06-22T07:08:14"
+		endtime="22-06-2023 12:40:53"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<activity
+			result="Success"
+			duration="2.6m"
+			durationms="154201"
+			type="test-suite"
+			rid="a70ec606f34920e"
+			totalerrorcount="0"
+			totalwarningcount="12"
+			totalsuccesstestcasecount="1"
+			totalfailedtestcasecount="0"
+			totalblockedtestcasecount="0"
+			childsuccesscount="1"
+			childfailedcount="0"
+			childblockedcount="0"
+			totalsuccesscount="1"
+			totalfailedcount="0"
+			totalblockedcount="0"
+			totalmaintenancemodecount="0"
+			testsuitename="NewDM2"
+			headertext="NewDM2"
+			runconfigname="TestRun"
+			runlabel=""
+			reportdescription="">
+			<params>
+				<param
+					name="AppProcessID">
+				</param>
+			</params>
+			<activity
+				result="Success"
+				duration="2.6m"
+				durationms="154158"
+				type="test-case"
+				rid="1f6c1e9cf63b8ca"
+				totalerrorcount="0"
+				totalwarningcount="12"
+				totalsuccesstestcasecount="1"
+				totalfailedtestcasecount="0"
+				totalblockedtestcasecount="0"
+				childsuccesscount="3"
+				childfailedcount="0"
+				childblockedcount="0"
+				totalsuccesscount="1"
+				totalfailedcount="0"
+				totalblockedcount="0"
+				totalmaintenancemodecount="0"
+				testcontainername="TestCase"
+				testcontainerid="ed805845-79f7-459d-bf7f-9b17a3514c38"
+				headertext="TestCase"
+				displayName="TestCase"
+				iteration="1"
+				activity-exectype="execute"
+				conditionstate="none">
+				<activity
+					result="Success"
+					duration="426ms"
+					durationms="426"
+					type="setup-container"
+					rid="2d510893b4001969"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="1"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0">
+					<activity
+						result="Success"
+						duration="409ms"
+						durationms="409"
+						type="test-module"
+						rid="7c18071925b8149"
+						totalerrorcount="0"
+						totalwarningcount="0"
+						totalsuccesstestcasecount="0"
+						totalfailedtestcasecount="0"
+						totalblockedtestcasecount="0"
+						childsuccesscount="0"
+						childfailedcount="0"
+						childblockedcount="0"
+						totalsuccesscount="0"
+						totalfailedcount="0"
+						totalblockedcount="0"
+						totalmaintenancemodecount="0"
+						modulename="StartAUT"
+						displayName="StartAUT"
+						moduleid="23a6755f-4598-4326-af21-3ec06cf72dcc"
+						moduletype="Recording"
+						iteration="1"
+						activity-exectype="execute"
+						testentry-activity-type="testmodule">
+						<varbindings>
+							<varbinding
+								name="StartAutProcessIDVar"
+								value="">
+							</varbinding>
+						</varbindings>
+						<item
+							timeRelativeToTestSuiteStartTime="00:00.054"
+							timeRelativeToTestModuleStartTime="00:00.006"
+							timeWallClock="12:38:19"
+							time="00:00.054"
+							level="Info"
+							category="Data">
+							<message>
+								Current variable values:<br/>$StartAutProcessIDVar = ''
+							</message>
+							<metainfo
+								loglvl="Info">
+							</metainfo>
+						</item>
+						<item
+							timeRelativeToTestSuiteStartTime="00:00.108"
+							timeRelativeToTestModuleStartTime="00:00.060"
+							timeWallClock="12:38:19"
+							time="00:00.108"
+							level="Info"
+							category="Application">
+							<message>
+								Run application 'C:\Program Files\Idera\Idera SQL diagnostic manager\SQLdmDesktopClient.exe' in normal mode. Return value bound to $StartAutProcessIDVar.
+							</message>
+							<metainfo
+								itemindex="0"
+								codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\StartAUT.cs"
+								codeline="95"
+								loglvl="Info">
+							</metainfo>
+						</item>
+					</activity>
+				</activity>
+				<activity
+					result="Success"
+					duration="2.6m"
+					durationms="153546"
+					type="test-module"
+					rid="310b050629a3c25"
+					totalerrorcount="0"
+					totalwarningcount="12"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="0"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0"
+					modulename="ToolTip1"
+					displayName="ToolTip1"
+					moduleid="bfed3c54-6d50-4f21-82c2-b864014c2c74"
+					moduletype="Recording"
+					iteration="1"
+					activity-exectype="execute"
+					testentry-activity-type="testmodule">
+					<varbindings>
+					</varbindings>
+					<item
+						timeRelativeToTestSuiteStartTime="00:00.466"
+						timeRelativeToTestModuleStartTime="00:00.003"
+						timeWallClock="12:38:19"
+						time="00:00.466"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ExceptionMessageBoxForm.ShowDetails' at 11;3.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.ShowDetails"
+							id="34ce331a9eec431c8376fb43e462d2c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="82"
+							itemindex="0"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:32.509"
+						timeRelativeToTestModuleStartTime="00:32.046"
+						timeWallClock="12:38:51"
+						time="00:32.509"
+						level="Info"
+						category="User">
+						<message>
+							Item 'ShowDetails' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="83"
+							loglvl="Info"
+							itemindex="0">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:32.555"
+						timeRelativeToTestModuleStartTime="00:32.093"
+						timeWallClock="12:38:51"
+						time="00:32.555"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							invertedPath="self::checkbox[@accessiblename='Show Details']/parent::toolbar[@controlname='headerStrip']/ancestor-or-self::element[@automationid='viewContainer']/parent::?/parent::?/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="83"
+							loglvl="Warn"
+							itemindex="0">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:33.026"
+						timeRelativeToTestModuleStartTime="00:32.564"
+						timeWallClock="12:38:52"
+						time="00:33.026"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ExceptionMessageBoxForm.ShowDetails' at 9;8.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.ShowDetails"
+							id="34ce331a9eec431c8376fb43e462d2c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="86"
+							itemindex="1"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:35.149"
+						timeRelativeToTestModuleStartTime="00:34.687"
+						timeWallClock="12:38:54"
+						time="00:35.149"
+						level="Info"
+						category="User">
+						<message>
+							Item 'ShowDetails' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="87"
+							loglvl="Info"
+							itemindex="1">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:35.179"
+						timeRelativeToTestModuleStartTime="00:34.716"
+						timeWallClock="12:38:54"
+						time="00:35.179"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							invertedPath="self::checkbox[@accessiblename='Show Details']/parent::toolbar[@controlname='headerStrip']/ancestor-or-self::element[@automationid='viewContainer']/parent::?/parent::?/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="87"
+							loglvl="Warn"
+							itemindex="1">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:35.611"
+						timeRelativeToTestModuleStartTime="00:35.148"
+						timeWallClock="12:38:54"
+						time="00:35.611"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ExceptionMessageBoxForm.ShowDetails' at 9;8.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.ShowDetails"
+							id="34ce331a9eec431c8376fb43e462d2c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="90"
+							itemindex="2"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:37.277"
+						timeRelativeToTestModuleStartTime="00:36.814"
+						timeWallClock="12:38:56"
+						time="00:37.277"
+						level="Info"
+						category="User">
+						<message>
+							Item 'ShowDetails' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="91"
+							loglvl="Info"
+							itemindex="2">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:37.314"
+						timeRelativeToTestModuleStartTime="00:36.852"
+						timeWallClock="12:38:56"
+						time="00:37.314"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/?/?/element[@automationid='viewContainer']//toolbar[@controlname='headerStrip']/checkbox[@accessiblename='Show Details']"
+							invertedPath="self::checkbox[@accessiblename='Show Details']/parent::toolbar[@controlname='headerStrip']/ancestor-or-self::element[@automationid='viewContainer']/parent::?/parent::?/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="91"
+							loglvl="Warn"
+							itemindex="2">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:37.746"
+						timeRelativeToTestModuleStartTime="00:37.284"
+						timeWallClock="12:38:57"
+						time="00:37.746"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Down item 'ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun' at 0;13.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun"
+							id="55e8006f6c1e4b5dada60fa2b54516c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="94"
+							itemindex="3"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:13.487"
+						timeRelativeToTestModuleStartTime="01:13.025"
+						timeWallClock="12:39:32"
+						time="01:13.487"
+						level="Info"
+						category="User">
+						<message>
+							Item 'CellColumnHeaderTotalActiveAlertCoun' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="95"
+							loglvl="Info"
+							itemindex="3">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:13.593"
+						timeRelativeToTestModuleStartTime="01:13.130"
+						timeWallClock="12:39:32"
+						time="01:13.593"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							invertedPath="self::cell[@automationid='[Column Header] TotalActiveAlertCount']/parent::row[@automationid='Band Headers']/parent::tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/ancestor-or-self::container[@automationid='windowsFormsHostControl']/parent::element[@automationid='viewContainer']/parent::element[@automationid='BodyPane']/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="95"
+							loglvl="Warn"
+							itemindex="3">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:16.777"
+						timeRelativeToTestModuleStartTime="01:16.314"
+						timeWallClock="12:39:36"
+						time="01:16.777"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Up item 'ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun' at 0;13.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun"
+							id="55e8006f6c1e4b5dada60fa2b54516c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="99"
+							itemindex="4"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:22.625"
+						timeRelativeToTestModuleStartTime="01:22.162"
+						timeWallClock="12:39:41"
+						time="01:22.625"
+						level="Info"
+						category="User">
+						<message>
+							Item 'CellColumnHeaderTotalActiveAlertCoun' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="100"
+							loglvl="Info"
+							itemindex="4">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:22.756"
+						timeRelativeToTestModuleStartTime="01:22.294"
+						timeWallClock="12:39:42"
+						time="01:22.756"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							invertedPath="self::cell[@automationid='[Column Header] TotalActiveAlertCount']/parent::row[@automationid='Band Headers']/parent::tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/ancestor-or-self::container[@automationid='windowsFormsHostControl']/parent::element[@automationid='viewContainer']/parent::element[@automationid='BodyPane']/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="100"
+							loglvl="Warn"
+							itemindex="4">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:26.125"
+						timeRelativeToTestModuleStartTime="01:25.662"
+						timeWallClock="12:39:45"
+						time="01:26.125"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Down item 'ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun' at 189;14.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun"
+							id="55e8006f6c1e4b5dada60fa2b54516c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="104"
+							itemindex="5"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:32.051"
+						timeRelativeToTestModuleStartTime="01:31.588"
+						timeWallClock="12:39:51"
+						time="01:32.051"
+						level="Info"
+						category="User">
+						<message>
+							Item 'CellColumnHeaderTotalActiveAlertCoun' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="105"
+							loglvl="Info"
+							itemindex="5">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:32.160"
+						timeRelativeToTestModuleStartTime="01:31.697"
+						timeWallClock="12:39:51"
+						time="01:32.160"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							invertedPath="self::cell[@automationid='[Column Header] TotalActiveAlertCount']/parent::row[@automationid='Band Headers']/parent::tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/ancestor-or-self::container[@automationid='windowsFormsHostControl']/parent::element[@automationid='viewContainer']/parent::element[@automationid='BodyPane']/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="105"
+							loglvl="Warn"
+							itemindex="5">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:32.218"
+						timeRelativeToTestModuleStartTime="01:31.756"
+						timeWallClock="12:39:51"
+						time="01:32.218"
+						level="Warn"
+						category="MoveTo"
+						errimg="images_NewDM2_2_3e904fe4\NewDM2_2_ea342b0f_rxlog.jpg"
+						errthumb="images_NewDM2_2_3e904fe4\NewDM2_2_ea342b0f_rxlog_thumb.jpg">
+						<message>
+							The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="105"
+							loglvl="Warn">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:35.510"
+						timeRelativeToTestModuleStartTime="01:35.048"
+						timeWallClock="12:39:54"
+						time="01:35.510"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Up item 'ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun' at 25;36.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun"
+							id="55e8006f6c1e4b5dada60fa2b54516c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="109"
+							itemindex="6"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:41.353"
+						timeRelativeToTestModuleStartTime="01:40.891"
+						timeWallClock="12:40:00"
+						time="01:41.353"
+						level="Info"
+						category="User">
+						<message>
+							Item 'CellColumnHeaderTotalActiveAlertCoun' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="110"
+							loglvl="Info"
+							itemindex="6">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:41.460"
+						timeRelativeToTestModuleStartTime="01:40.997"
+						timeWallClock="12:40:00"
+						time="01:41.460"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							invertedPath="self::cell[@automationid='[Column Header] TotalActiveAlertCount']/parent::row[@automationid='Band Headers']/parent::tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/ancestor-or-self::container[@automationid='windowsFormsHostControl']/parent::element[@automationid='viewContainer']/parent::element[@automationid='BodyPane']/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="110"
+							loglvl="Warn"
+							itemindex="6">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:41.515"
+						timeRelativeToTestModuleStartTime="01:41.052"
+						timeWallClock="12:40:00"
+						time="01:41.515"
+						level="Warn"
+						category="MoveTo"
+						errimg="images_NewDM2_2_3e904fe4\NewDM2_2_5ecf2b0f_rxlog.jpg"
+						errthumb="images_NewDM2_2_3e904fe4\NewDM2_2_5ecf2b0f_rxlog_thumb.jpg">
+						<message>
+							The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="110"
+							loglvl="Warn">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:44.774"
+						timeRelativeToTestModuleStartTime="01:44.312"
+						timeWallClock="12:40:04"
+						time="01:44.774"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Down item 'ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun' at 472;178.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.CellColumnHeaderTotalActiveAlertCoun"
+							id="55e8006f6c1e4b5dada60fa2b54516c8"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="114"
+							itemindex="7"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:50.612"
+						timeRelativeToTestModuleStartTime="01:50.149"
+						timeWallClock="12:40:09"
+						time="01:50.612"
+						level="Info"
+						category="User">
+						<message>
+							Item 'CellColumnHeaderTotalActiveAlertCoun' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="115"
+							loglvl="Info"
+							itemindex="7">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:50.721"
+						timeRelativeToTestModuleStartTime="01:50.259"
+						timeWallClock="12:40:10"
+						time="01:50.721"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/row[@automationid='Band Headers']/cell[@automationid='[Column Header] TotalActiveAlertCount']"
+							invertedPath="self::cell[@automationid='[Column Header] TotalActiveAlertCount']/parent::row[@automationid='Band Headers']/parent::tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/ancestor-or-self::container[@automationid='windowsFormsHostControl']/parent::element[@automationid='viewContainer']/parent::element[@automationid='BodyPane']/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="115"
+							loglvl="Warn"
+							itemindex="7">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:50.778"
+						timeRelativeToTestModuleStartTime="01:50.315"
+						timeWallClock="12:40:10"
+						time="01:50.778"
+						level="Warn"
+						category="MoveTo"
+						errimg="images_NewDM2_2_3e904fe4\NewDM2_2_d36a2b0f_rxlog.jpg"
+						errthumb="images_NewDM2_2_3e904fe4\NewDM2_2_d36a2b0f_rxlog_thumb.jpg">
+						<message>
+							The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="115"
+							loglvl="Warn">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="01:54.028"
+						timeRelativeToTestModuleStartTime="01:53.565"
+						timeWallClock="12:40:13"
+						time="01:54.028"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ExceptionMessageBoxForm.TextEditorEditArea' at 28;9.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title>'IDERA SQL Diagnostic Mana']/element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/treeitem[@automationid='2']/text[@automationid='15']/text[@automationid='[Editor] Edit Area']"
+							itempath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/treeitem[@automationid='2']/text[@automationid='15']/text[@automationid='[Editor] Edit Area']"
+							fullname="NewDM2Repository.ExceptionMessageBoxForm.TextEditorEditArea"
+							id="7a72a39df8f5458a8f7fe4ba54a77dff"
+							timeout="60000"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="119"
+							itemindex="8"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="02:30.634"
+						timeRelativeToTestModuleStartTime="02:30.171"
+						timeWallClock="12:40:49"
+						time="02:30.634"
+						level="Info"
+						category="User">
+						<message>
+							Item 'TextEditorEditArea' was found using Robust path.
+						</message>
+						<metainfo
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="120"
+							loglvl="Info"
+							itemindex="8">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="02:30.733"
+						timeRelativeToTestModuleStartTime="02:30.270"
+						timeWallClock="12:40:50"
+						time="02:30.733"
+						level="Warn"
+						category="Repository">
+						<message>
+							Failed to update the cached element for folder 'NewDM2Repository.ExceptionMessageBoxForm'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+						</message>
+						<metainfo
+							descendantPath="element[@automationid='dockMgr']/element[@automationid='SplitPane0']/element[@automationid='BodyPane']/element[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']//tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/treeitem[@automationid='2']/text[@automationid='15']/text[@automationid='[Editor] Edit Area']"
+							invertedPath="self::text[@automationid='[Editor] Edit Area']/parent::text[@automationid='15']/parent::treeitem[@automationid='2']/parent::tree[@automationid='ColScrollRegion: 0, RowScrollRegion: 0']/ancestor-or-self::container[@automationid='windowsFormsHostControl']/parent::element[@automationid='viewContainer']/parent::element[@automationid='BodyPane']/parent::element[@automationid='SplitPane0']/parent::element[@automationid='dockMgr']/parent::*"
+							basePathToCachedFolder="/form[@title>'IDERA SQL Diagnostic Mana']"
+							invertedBasePath="self::form[@title>'IDERA SQL Diagnostic Mana']/parent::host/self::*"
+							AbsoluteBasePath="/form[@title>'IDERA SQL Diagnostic Mana']"
+							folderSearchTimeout="30s"
+							folderElementCandidates.Count="0"
+							codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\ToolTip1.cs"
+							codeline="120"
+							loglvl="Warn"
+							itemindex="8">
+						</metainfo>
+					</item>
+				</activity>
+				<activity
+					result="Success"
+					duration="181ms"
+					durationms="181"
+					type="teardown-container"
+					rid="819a3716a986fb8"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="1"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0">
+					<activity
+						result="Success"
+						duration="178ms"
+						durationms="178"
+						type="test-module"
+						rid="1c43290c7aa5fb94"
+						totalerrorcount="0"
+						totalwarningcount="0"
+						totalsuccesstestcasecount="0"
+						totalfailedtestcasecount="0"
+						totalblockedtestcasecount="0"
+						childsuccesscount="0"
+						childfailedcount="0"
+						childblockedcount="0"
+						totalsuccesscount="0"
+						totalfailedcount="0"
+						totalblockedcount="0"
+						totalmaintenancemodecount="0"
+						modulename="CloseAUT"
+						displayName="CloseAUT"
+						moduleid="e78164c3-6897-4b23-b083-4ed00307f16c"
+						moduletype="Recording"
+						iteration="1"
+						activity-exectype="execute"
+						testentry-activity-type="testmodule">
+						<varbindings>
+							<varbinding
+								name="CloseAutProcessIDVar"
+								value="23636">
+							</varbinding>
+						</varbindings>
+						<item
+							timeRelativeToTestSuiteStartTime="02:34.011"
+							timeRelativeToTestModuleStartTime="00:00.000"
+							timeWallClock="12:40:53"
+							time="02:34.011"
+							level="Info"
+							category="Data">
+							<message>
+								Current variable values:<br/>$CloseAutProcessIDVar = '23636'
+							</message>
+							<metainfo
+								loglvl="Info">
+							</metainfo>
+						</item>
+						<item
+							timeRelativeToTestSuiteStartTime="02:34.044"
+							timeRelativeToTestModuleStartTime="00:00.033"
+							timeWallClock="12:40:53"
+							time="02:34.044"
+							level="Info"
+							category="Application">
+							<message>
+								Closing application with Process ID bound to variable $CloseAutProcessIDVar.
+							</message>
+							<metainfo
+								itemindex="0"
+								codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\CloseAUT.cs"
+								codeline="95"
+								loglvl="Info">
+							</metainfo>
+						</item>
+					</activity>
+				</activity>
+			</activity>
+		</activity>
+	</activity>
+</report>

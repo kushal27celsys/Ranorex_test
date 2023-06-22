@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="27.31s"
+		durationms="27307"
+		type="root"
+		rid="12018dd56402c7fa"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-06-2023 17:17:35"
+		timestampiso="2023-06-21T11:47:35"
+		endtime="21-06-2023 17:18:02"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.231"
+			timeRelativeToTestModuleStartTime="00:07.231"
+			timeWallClock="17:17:42"
+			time="00:07.231"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu' at 12;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				itempath="container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu"
+				id="6bc8bf835dbf4cb39946b03bd94555da"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.181"
+			timeRelativeToTestModuleStartTime="00:11.181"
+			timeWallClock="17:17:46"
+			time="00:11.181"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SQLdmDesktopClient.CreateView' at 35;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='SQLdmDesktopClient']/?/?/text[@caption='Create View']"
+				itempath="?/?/text[@caption='Create View']"
+				fullname="NewDM2Repository.SQLdmDesktopClient.CreateView"
+				id="c991b86909364b83b0b9601864951790"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.971"
+			timeRelativeToTestModuleStartTime="00:16.971"
+			timeWallClock="17:17:52"
+			time="00:16.971"
+			level="Warn"
+			category="WinForms">
+			<message>
+				Something is limiting object recognition for WinForms. Missing privileges are a common cause of this. Try starting all Ranorex tools and the AUT with the same privileges, preferably as an administrator. <br/>Process: 'SQLdmDesktopClient' (pid 35608)<br/>https://www.ranorex.com/help/v10.7/interfaces-connectivity/technology-instrumentation/general-troubleshooting/<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="PotentiallyWinForms"
+				showInProgressDialog="False"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="87"
+				loglvl="Warn"
+				itemindex="1">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.307"
+			timeRelativeToTestModuleStartTime="00:27.307"
+			timeWallClock="17:18:02"
+			time="00:27.307"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

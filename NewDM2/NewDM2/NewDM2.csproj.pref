@@ -1,0 +1,14 @@
+﻿<Properties>
+  <Array name="active" />
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="NewDM2.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="graph_page.rxrec" />
+    <Element value="Recording1.UserCode.cs" />
+    <Element value="Recording1.cs" />
+    <Element value="StartAUT.cs" />
+    <Element value="StartAUT.UserCode.cs" />
+  </Array>
+  <Properties name="projectSavedData" />
+</Properties>

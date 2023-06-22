@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="24.19s"
+		durationms="24189"
+		type="root"
+		rid="15022ed062174c40"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-06-2023 17:32:41"
+		timestampiso="2023-06-21T12:02:41"
+		endtime="21-06-2023 17:33:06"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.460"
+			timeRelativeToTestModuleStartTime="00:08.460"
+			timeWallClock="17:32:50"
+			time="00:08.460"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu' at 12;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				itempath="container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu"
+				id="6bc8bf835dbf4cb39946b03bd94555da"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.162"
+			timeRelativeToTestModuleStartTime="00:11.162"
+			timeWallClock="17:32:52"
+			time="00:11.162"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SQLdmDesktopClient.CreateView' at 35;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='SQLdmDesktopClient']/?/?/text[@caption='Create View']"
+				itempath="?/?/text[@caption='Create View']"
+				fullname="NewDM2Repository.SQLdmDesktopClient.CreateView"
+				id="c991b86909364b83b0b9601864951790"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.058"
+			timeRelativeToTestModuleStartTime="00:12.058"
+			timeWallClock="17:32:53"
+			time="00:12.058"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.Text' at 190;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.Text"
+				id="90d9e2dc2c424aad980413e2dd7b8667"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.623"
+			timeRelativeToTestModuleStartTime="00:13.623"
+			timeWallClock="17:32:55"
+			time="00:13.623"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'demo' with focus on 'StaticViewPropertiesDialog.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.Text"
+				id="90d9e2dc2c424aad980413e2dd7b8667"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.197"
+			timeRelativeToTestModuleStartTime="00:14.197"
+			timeWallClock="17:32:56"
+			time="00:14.197"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.ChkAll' at 3;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']/container[@controlname='customCheckedFilterListBox']/container[@caption='']//checkbox[@text='All']"
+				itempath="container[@caption='']/container[@controlname='customCheckedFilterListBox']/container[@caption='']//checkbox[@text='All']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.ChkAll"
+				id="e285125b9eef476caa1e83127ac8a238"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.023"
+			timeRelativeToTestModuleStartTime="00:15.023"
+			timeWallClock="17:32:56"
+			time="00:15.023"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.AddButton' at 29;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/container[@caption='']/?/?/button[@text='   Add >    ']"
+				itempath="container[@caption='']/?/?/button[@text='   Add >    ']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.AddButton"
+				id="666e44a3528643aeaa5dd5a3f8b3c8c2"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.801"
+			timeRelativeToTestModuleStartTime="00:15.801"
+			timeWallClock="17:32:57"
+			time="00:15.801"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'StaticViewPropertiesDialog.OkButton' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Create View']/button[@text='Create']"
+				itempath="button[@text='Create']"
+				fullname="NewDM2Repository.StaticViewPropertiesDialog.OkButton"
+				id="b1cbdebee89847f283e74d9bc704f420"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.374"
+			timeRelativeToTestModuleStartTime="00:16.374"
+			timeWallClock="17:32:58"
+			time="00:16.374"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Click item 'IDERASQLDiagnosticManagerSQLdmRepos.Demo3' at 35;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']/treeitem[@accessiblename='demo (3)']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewsTreeView']/treeitem[@accessiblename='demo (3)']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.Demo3"
+				id="2c18890f41324ca6870d43b867a82420"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.871"
+			timeRelativeToTestModuleStartTime="00:19.871"
+			timeWallClock="17:33:01"
+			time="00:19.871"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Click item 'SQLdmDesktopClient.DeleteDemo' at 67;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='SQLdmDesktopClient']/menuitem[@name='Delete &quot;demo&quot;']"
+				itempath="menuitem[@name='Delete &quot;demo&quot;']"
+				fullname="NewDM2Repository.SQLdmDesktopClient.DeleteDemo"
+				id="7058c07937b9463fa120e78fddb09e7f"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.940"
+			timeRelativeToTestModuleStartTime="00:20.940"
+			timeWallClock="17:33:02"
+			time="00:20.940"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Click item 'ExceptionMessageBoxForm.Button1' at 25;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Mana']/?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				itempath="?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				fullname="NewDM2Repository.ExceptionMessageBoxForm.Button1"
+				id="696e98ee3bc346e6b6c578f40b01796b"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.953"
+			timeRelativeToTestModuleStartTime="00:22.953"
+			timeWallClock="17:33:04"
+			time="00:22.953"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Right Click item 'ExceptionMessageBoxForm.Button1' at 25;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Mana']/?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				itempath="?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				fullname="NewDM2Repository.ExceptionMessageBoxForm.Button1"
+				id="696e98ee3bc346e6b6c578f40b01796b"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.555"
+			timeRelativeToTestModuleStartTime="00:23.555"
+			timeWallClock="17:33:05"
+			time="00:23.555"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ExceptionMessageBoxForm.Button1' at 42;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Mana']/?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				itempath="?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				fullname="NewDM2Repository.ExceptionMessageBoxForm.Button1"
+				id="696e98ee3bc346e6b6c578f40b01796b"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Recording1.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

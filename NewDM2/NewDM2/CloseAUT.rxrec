@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="e78164c3-6897-4b23-b083-4ed00307f16c"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="NewDM2">
+	</codegen>
+	<variables>
+		<var
+		id="74f65e06-e9b0-40cf-b902-137d9867d25b"
+		name="CloseAutProcessIDVar">
+			-1
+		</var>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="500ms"
+		method="CloseWindowByProcessID"
+		optional="False"
+		searchpropertyid="2ed99667-caa4-4960-983a-a8eec23c6df4">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ProcessID"
+				variable="CloseAutProcessIDVar">
+				</binding>
+			</bindings>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="f23ca0c5-df30-413e-8505-f62244f4e60c"
+	name="NewDM2Repository"
+	relativepath="NewDM2Repository.rxrep">
+		<codegen
+		classname="NewDM2Repository"
+		namespace="NewDM2">
+		</codegen>
+		<rootfolder
+		id="a7e4b245-c6e1-4077-8b08-fc349955bf82"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

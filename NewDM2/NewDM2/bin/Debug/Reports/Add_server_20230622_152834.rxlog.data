@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="54.83s"
+		durationms="54833"
+		type="root"
+		rid="81d29ff92dbecda"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="22-06-2023 15:28:36"
+		timestampiso="2023-06-22T09:58:36"
+		endtime="22-06-2023 15:29:31"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Add_server">
+		<detail>
+			Add_server
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.910"
+			timeRelativeToTestModuleStartTime="00:07.910"
+			timeWallClock="15:28:44"
+			time="00:07.910"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu' at 11;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				itempath="container/container[1]/menubar[3]/menuitem[@automationid='filesMenu']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FilesMenu"
+				id="6bc8bf835dbf4cb39946b03bd94555da"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.988"
+			timeRelativeToTestModuleStartTime="00:09.988"
+			timeWallClock="15:28:46"
+			time="00:09.988"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SQLdmDesktopClient.ManageServers' at 36;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='SQLdmDesktopClient']/?/?/text[@caption='Manage Servers']"
+				itempath="?/?/text[@caption='Manage Servers']"
+				fullname="NewDM2Repository.SQLdmDesktopClient.ManageServers"
+				id="cde85998da8c4e8db8b9f04c0e6ebb53"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.570"
+			timeRelativeToTestModuleStartTime="00:10.570"
+			timeWallClock="15:28:47"
+			time="00:10.570"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ManageServersDialog.AddButton' at 35;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Manage Servers']/button[@text='Add']"
+				itempath="button[@text='Add']"
+				fullname="NewDM2Repository.ManageServersDialog.AddButton"
+				id="ae7476b76a154a92a120377ac17d6917"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.721"
+			timeRelativeToTestModuleStartTime="00:11.721"
+			timeWallClock="15:28:48"
+			time="00:11.721"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton' at 40;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton"
+				id="d69a6292c9e84ff69b1c2ac45f990950"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.735"
+			timeRelativeToTestModuleStartTime="00:12.735"
+			timeWallClock="15:28:49"
+			time="00:12.735"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton' at 40;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton"
+				id="d69a6292c9e84ff69b1c2ac45f990950"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.452"
+			timeRelativeToTestModuleStartTime="00:13.452"
+			timeWallClock="15:28:50"
+			time="00:13.452"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.Password' at 89;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/container[@controlname='ultraTabInstancesPage']/container[@controlname='selectInstancesPage']/?/?/text[@accessiblename='Password:']"
+				itempath="?/?/container[@controlname='ultraTabInstancesPage']/container[@controlname='selectInstancesPage']/?/?/text[@accessiblename='Password:']"
+				fullname="NewDM2Repository.AddServersWizard.Password"
+				id="b6daf6ebbf47482d92ddecc96cb40ef4"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.353"
+			timeRelativeToTestModuleStartTime="00:14.353"
+			timeWallClock="15:28:51"
+			time="00:14.353"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'test1' with focus on 'AddServersWizard.Password'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/container[@controlname='ultraTabInstancesPage']/container[@controlname='selectInstancesPage']/?/?/text[@accessiblename='Password:']"
+				itempath="?/?/container[@controlname='ultraTabInstancesPage']/container[@controlname='selectInstancesPage']/?/?/text[@accessiblename='Password:']"
+				fullname="NewDM2Repository.AddServersWizard.Password"
+				id="b6daf6ebbf47482d92ddecc96cb40ef4"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.929"
+			timeRelativeToTestModuleStartTime="00:14.929"
+			timeWallClock="15:28:51"
+			time="00:14.929"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.AddInstancesButton' at 41;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/container[@controlname='ultraTabInstancesPage']/?/?/button[@controlname='addInstancesButton']"
+				itempath="?/?/container[@controlname='ultraTabInstancesPage']/?/?/button[@controlname='addInstancesButton']"
+				fullname="NewDM2Repository.AddServersWizard.AddInstancesButton"
+				id="60086ce0bd6a4bb1822409972493f218"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.987"
+			timeRelativeToTestModuleStartTime="00:15.987"
+			timeWallClock="15:28:52"
+			time="00:15.987"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton' at 30;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton"
+				id="d69a6292c9e84ff69b1c2ac45f990950"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.686"
+			timeRelativeToTestModuleStartTime="00:16.686"
+			timeWallClock="15:28:53"
+			time="00:16.686"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton' at 30;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton"
+				id="d69a6292c9e84ff69b1c2ac45f990950"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.387"
+			timeRelativeToTestModuleStartTime="00:17.387"
+			timeWallClock="15:28:54"
+			time="00:17.387"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.EnableQueryMonitorTraceCheckBox' at 8;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/container[@controlname='CollectionPage']/container[@controlname='configureCollectionPage']/?/?/checkbox[@controlname='enableQueryMonitorTraceCheckBox']"
+				itempath="?/?/container[@controlname='CollectionPage']/container[@controlname='configureCollectionPage']/?/?/checkbox[@controlname='enableQueryMonitorTraceCheckBox']"
+				fullname="NewDM2Repository.AddServersWizard.EnableQueryMonitorTraceCheckBox"
+				id="6c944e51fc004b51972243ceb578131c"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.552"
+			timeRelativeToTestModuleStartTime="00:18.552"
+			timeWallClock="15:28:55"
+			time="00:18.552"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton"
+				id="d69a6292c9e84ff69b1c2ac45f990950"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.270"
+			timeRelativeToTestModuleStartTime="00:19.270"
+			timeWallClock="15:28:56"
+			time="00:19.270"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='&amp;Next >']"
+				itempath="?/?/button[@text='&amp;Next >']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton"
+				id="d69a6292c9e84ff69b1c2ac45f990950"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="130"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.002"
+			timeRelativeToTestModuleStartTime="00:20.002"
+			timeWallClock="15:28:56"
+			time="00:20.002"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AddServersWizard.NextButton1' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Servers Wizard']/?/?/button[@text='Finish']"
+				itempath="?/?/button[@text='Finish']"
+				fullname="NewDM2Repository.AddServersWizard.NextButton1"
+				id="58fc4a0ccc2e44838ae81af3c947a958"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.724"
+			timeRelativeToTestModuleStartTime="00:20.724"
+			timeWallClock="15:28:57"
+			time="00:20.724"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ManageServersDialog.Button1' at 42;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Manage Servers']/?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				itempath="?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				fullname="NewDM2Repository.ManageServersDialog.Button1"
+				id="1ac40c205ea94edd803fa915fbe890bd"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="138"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:50.796"
+			timeRelativeToTestModuleStartTime="00:50.796"
+			timeWallClock="15:29:27"
+			time="00:50.796"
+			level="Info"
+			category="User">
+			<message>
+				Item 'Button1' was found using Robust path.
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="139"
+				loglvl="Info"
+				itemindex="14">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:51.267"
+			timeRelativeToTestModuleStartTime="00:51.267"
+			timeWallClock="15:29:28"
+			time="00:51.267"
+			level="Warn"
+			category="Repository">
+			<message>
+				Item 'NewDM2Repository.ManageServersDialog.Button1' could be found using its absolute path, but not using its relative path from the cached element of parent folder 'NewDM2Repository.ManageServersDialog'. This can happen if either the item search timeout is too small or if items within a rooted folder do not share a common parent element. To fix this problem, first increase the item search timeout. If this does not help, create a separate rooted folder for this item or disable caching for the specified folder.
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="139"
+				loglvl="Warn"
+				id="1ac40c205ea94edd803fa915fbe890bd"
+				path="/form[@title='Manage Servers']/?/?/container[@controlname='pnlButtons']/button[@text='&amp;Yes']"
+				fullname="NewDM2Repository.ManageServersDialog.Button1"
+				itemindex="14">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:51.668"
+			timeRelativeToTestModuleStartTime="00:51.668"
+			timeWallClock="15:29:28"
+			time="00:51.668"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ManageServersDialog.OkButton' at 37;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Manage Servers']/button[@text='OK']"
+				itempath="button[@text='OK']"
+				fullname="NewDM2Repository.ManageServersDialog.OkButton"
+				id="9eecefe20c594967bc179db71a3ce45f"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="142"
+				itemindex="15"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:52.200"
+			timeRelativeToTestModuleStartTime="00:52.200"
+			timeWallClock="15:29:29"
+			time="00:52.200"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewTreeView' at 98;110.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewTreeView"
+				id="acb4f389b28a4aa7b8a9245e90872afc"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="146"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:53.916"
+			timeRelativeToTestModuleStartTime="00:53.916"
+			timeWallClock="15:29:30"
+			time="00:53.916"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating Exists on item 'IDERASQLDiagnosticManagerSQLdmRepos.UserViewTreeView'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewTreeView"
+				id="acb4f389b28a4aa7b8a9245e90872afc"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="150"
+				itemindex="17"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:54.724"
+			timeRelativeToTestModuleStartTime="00:54.724"
+			timeWallClock="15:29:31"
+			time="00:54.724"
+			level="Success"
+			category="Validation">
+			<message>
+				Element for item 'UserViewTreeView' does exist.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewTreeView']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//tree[@controlname='userViewTreeView']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.UserViewTreeView"
+				id="acb4f389b28a4aa7b8a9245e90872afc"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Add_server.cs"
+				codeline="151"
+				loglvl="Success"
+				itemindex="17">
+			</metainfo>
+		</item>
+	</activity>
+</report>

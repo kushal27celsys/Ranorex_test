@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="15.03s"
+		durationms="15028"
+		type="root"
+		rid="14ba40ca38bbcfd"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="22-06-2023 13:19:05"
+		timestampiso="2023-06-22T07:49:05"
+		endtime="22-06-2023 13:19:20"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Alert_Action1">
+		<detail>
+			Alert_Action1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.822"
+			timeRelativeToTestModuleStartTime="00:05.822"
+			timeWallClock="13:19:11"
+			time="00:05.822"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.Alerts' at 21;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']//tabpagelist[@automationid='topMenu']/tabpage[@automationid='alertsMenu']/text[@caption='Alerts']"
+				itempath=".//tabpagelist[@automationid='topMenu']/tabpage[@automationid='alertsMenu']/text[@caption='Alerts']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.Alerts"
+				id="b8b3d0c9660d43b2b69a3251d7dfa41c"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.844"
+			timeRelativeToTestModuleStartTime="00:07.844"
+			timeWallClock="13:19:13"
+			time="00:07.844"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.AlertActionsAndResponses' at 50;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//link[@url>'Alert Actions and Respons']/?/?/link[@accessiblename>'Alert Actions and Respons']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='LeftNavPane']/container[@automationid='navigationPaneHost']//link[@url>'Alert Actions and Respons']/?/?/link[@accessiblename>'Alert Actions and Respons']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.AlertActionsAndResponses"
+				id="9a2da591a2f94a53b47c4405d372821f"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.076"
+			timeRelativeToTestModuleStartTime="00:09.076"
+			timeWallClock="13:19:14"
+			time="00:09.076"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRulesDialog.AddButton' at 34;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Alert Actions and Respons']/?/?/container[@controlname='ultraTabPageControl1']/container[@caption='']//button[@text='Add']"
+				itempath="?/?/container[@controlname='ultraTabPageControl1']/container[@caption='']//button[@text='Add']"
+				fullname="NewDM2Repository.NotificationRulesDialog.AddButton"
+				id="7922a6b1c4d04ab4a9345cae67e6639b"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.892"
+			timeRelativeToTestModuleStartTime="00:09.892"
+			timeWallClock="13:19:15"
+			time="00:09.892"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRuleDialog.Text' at 38;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Alert Response']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.NotificationRuleDialog.Text"
+				id="eba5523a21104722addf316a152f3670"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.677"
+			timeRelativeToTestModuleStartTime="00:10.677"
+			timeWallClock="13:19:16"
+			time="00:10.677"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'demo1' with focus on 'NotificationRuleDialog.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Alert Response']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.NotificationRuleDialog.Text"
+				id="eba5523a21104722addf316a152f3670"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.967"
+			timeRelativeToTestModuleStartTime="00:10.967"
+			timeWallClock="13:19:16"
+			time="00:10.967"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRuleDialog.WhereTheSQLServerInstanceIsInAHr' at 8;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Alert Response']/?/?/table[@controlname='conditionListBox']/?/?/cell[@text>'Where the SQL Server Instance']"
+				itempath="?/?/table[@controlname='conditionListBox']/?/?/cell[@text>'Where the SQL Server Instance']"
+				fullname="NewDM2Repository.NotificationRuleDialog.WhereTheSQLServerInstanceIsInAHr"
+				id="9635269aa2e34b03818cf44c052a5cd3"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.558"
+			timeRelativeToTestModuleStartTime="00:11.558"
+			timeWallClock="13:19:16"
+			time="00:11.558"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Blank.SpecifiedList' at 33;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='']/?/?/table/tbody/tr[2]/td[@innertext>'and SQL Server Instance is']/?/?/font[@innertext='specified list']"
+				itempath="?/?/table/tbody/tr[2]/td[@innertext>'and SQL Server Instance is']/?/?/font[@innertext='specified list']"
+				fullname="NewDM2Repository.Blank.SpecifiedList"
+				id="0ef18c1245ed45488bb72b03a304f0b7"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.276"
+			timeRelativeToTestModuleStartTime="00:12.276"
+			timeWallClock="13:19:17"
+			time="00:12.276"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ServerSelectionDialog.Text' at 75;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Instances']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.ServerSelectionDialog.Text"
+				id="47d340c9a6d74ba0a70898ca00c1ac3a"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.908"
+			timeRelativeToTestModuleStartTime="00:12.908"
+			timeWallClock="13:19:18"
+			time="00:12.908"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '17' with focus on 'ServerSelectionDialog.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Instances']/?/?/text[@accessiblerole='Text']"
+				itempath="?/?/text[@accessiblerole='Text']"
+				fullname="NewDM2Repository.ServerSelectionDialog.Text"
+				id="47d340c9a6d74ba0a70898ca00c1ac3a"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.102"
+			timeRelativeToTestModuleStartTime="00:13.102"
+			timeWallClock="13:19:18"
+			time="00:13.102"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ServerSelectionDialog.CELSYSBLR000241CELSYSWTC17' at 7;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Instances']/list[@controlname='serverListBox']/?/?/checkbox[@accessiblename>'CELSYSBLR000241\CELSYSWTC']"
+				itempath="list[@controlname='serverListBox']/?/?/checkbox[@accessiblename>'CELSYSBLR000241\CELSYSWTC']"
+				fullname="NewDM2Repository.ServerSelectionDialog.CELSYSBLR000241CELSYSWTC17"
+				id="336bf41aa04244e69dac19217025d617"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.574"
+			timeRelativeToTestModuleStartTime="00:13.574"
+			timeWallClock="13:19:18"
+			time="00:13.574"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ServerSelectionDialog.BtnOK' at 34;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Instances']/?/?/button[@text='OK']"
+				itempath="?/?/button[@text='OK']"
+				fullname="NewDM2Repository.ServerSelectionDialog.BtnOK"
+				id="f57fb79f477942e6a45c70549f9b7329"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.111"
+			timeRelativeToTestModuleStartTime="00:14.111"
+			timeWallClock="13:19:19"
+			time="00:14.111"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRuleDialog.CancelButton' at 34;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Alert Response']/button[@text='Cancel']"
+				itempath="button[@text='Cancel']"
+				fullname="NewDM2Repository.NotificationRuleDialog.CancelButton"
+				id="513c9757ce97419faefc8fef237a98f8"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.593"
+			timeRelativeToTestModuleStartTime="00:14.593"
+			timeWallClock="13:19:19"
+			time="00:14.593"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NotificationRulesDialog.CancelButton' at 27;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Alert Actions and Respons']/button[@text='Finish']"
+				itempath="button[@text='Finish']"
+				fullname="NewDM2Repository.NotificationRulesDialog.CancelButton"
+				id="0c7885db808b42cfb92c9ae2baf2de29"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Alert_Action1.cs"
+				codeline="130"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

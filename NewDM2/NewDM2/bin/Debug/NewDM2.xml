@@ -1,0 +1,1203 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NewDM2</name>
+    </assembly>
+    <members>
+        <member name="T:NewDM2.Add_server">
+             <summary>
+            The Add_server recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.Add_server.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Add_server.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.Add_server.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Add_server.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.Add_server.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Add_server.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.Add_server.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.Alert_Action1">
+             <summary>
+            The Alert_Action1 recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.Alert_Action1.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Alert_Action1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.Alert_Action1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Alert_Action1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.Alert_Action1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Alert_Action1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.Alert_Action1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.CloseAUT.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:NewDM2.CloseAUT.CloseAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable CloseAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:NewDM2.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.Create_view">
+             <summary>
+            The Create_view recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.Create_view.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Create_view.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.Create_view.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Create_view.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.Create_view.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Create_view.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.Create_view.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.graph_page">
+             <summary>
+            The graph_page recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.graph_page.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.graph_page.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.graph_page.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.graph_page.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.graph_page.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.graph_page.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.graph_page.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2Repository">
+            <summary>
+            The class representing the NewDM2Repository element repository.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.Instance">
+            <summary>
+            Gets the singleton class instance representing the NewDM2Repository element repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2Repository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos">
+            <summary>
+            The IDERASQLDiagnosticManagerSQLdmRepos folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.SQLdmDesktopClient">
+            <summary>
+            The SQLdmDesktopClient folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.StaticViewPropertiesDialog">
+            <summary>
+            The StaticViewPropertiesDialog folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.ExceptionMessageBoxForm">
+            <summary>
+            The ExceptionMessageBoxForm folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.CustomCounterWizard">
+            <summary>
+            The CustomCounterWizard folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.CustomSearchDialogBox">
+            <summary>
+            The CustomSearchDialogBox folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.NotificationRulesDialog">
+            <summary>
+            The NotificationRulesDialog folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.NotificationRuleDialog">
+            <summary>
+            The NotificationRuleDialog folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.Blank">
+            <summary>
+            The Blank folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.ServerSelectionDialog">
+            <summary>
+            The ServerSelectionDialog folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.ManageServersDialog">
+            <summary>
+            The ManageServersDialog folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2Repository.AddServersWizard">
+            <summary>
+            The AddServersWizard folder.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder">
+            <summary>
+            The IDERASQLDiagnosticManagerSQLdmReposAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new IDERASQLDiagnosticManagerSQLdmRepos  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.FilesMenu">
+            <summary>
+            The FilesMenu item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.FilesMenuInfo">
+            <summary>
+            The FilesMenu item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.UserViewsTreeView">
+            <summary>
+            The UserViewsTreeView item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.UserViewsTreeViewInfo">
+            <summary>
+            The UserViewsTreeView item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.Demo3">
+            <summary>
+            The Demo3 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.Demo3Info">
+            <summary>
+            The Demo3 item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.Administration">
+            <summary>
+            The Administration item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.AdministrationInfo">
+            <summary>
+            The Administration item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.FeatureHeaderLabel">
+            <summary>
+            The FeatureHeaderLabel item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.FeatureHeaderLabelInfo">
+            <summary>
+            The FeatureHeaderLabel item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.ButtonGroupCustomCountersToolsToo">
+            <summary>
+            The ButtonGroupCustomCountersToolsToo item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.ButtonGroupCustomCountersToolsTooInfo">
+            <summary>
+            The ButtonGroupCustomCountersToolsToo item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.Alerts">
+            <summary>
+            The Alerts item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.AlertsInfo">
+            <summary>
+            The Alerts item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.AlertActionsAndResponses">
+            <summary>
+            The AlertActionsAndResponses item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.AlertActionsAndResponsesInfo">
+            <summary>
+            The AlertActionsAndResponses item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.UserViewTreeView">
+            <summary>
+            The UserViewTreeView item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.UserViewTreeViewInfo">
+            <summary>
+            The UserViewTreeView item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder">
+            <summary>
+            The SQLdmDesktopClientAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new SQLdmDesktopClient  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.CreateView">
+            <summary>
+            The CreateView item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.CreateViewInfo">
+            <summary>
+            The CreateView item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.DeleteDemo">
+            <summary>
+            The DeleteDemo item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.DeleteDemoInfo">
+            <summary>
+            The DeleteDemo item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.ManageServers">
+            <summary>
+            The ManageServers item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SQLdmDesktopClientAppFolder.ManageServersInfo">
+            <summary>
+            The ManageServers item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder">
+            <summary>
+            The StaticViewPropertiesDialogAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new StaticViewPropertiesDialog  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.ChkAll">
+            <summary>
+            The ChkAll item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.ChkAllInfo">
+            <summary>
+            The ChkAll item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.AddButton">
+            <summary>
+            The AddButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.AddButtonInfo">
+            <summary>
+            The AddButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.OkButton">
+            <summary>
+            The OkButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.OkButtonInfo">
+            <summary>
+            The OkButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.PnlForm">
+            <summary>
+            The PnlForm item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.PnlFormInfo">
+            <summary>
+            The PnlForm item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.Close">
+            <summary>
+            The Close item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.CloseInfo">
+            <summary>
+            The Close item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.Text1">
+            <summary>
+            The Text1 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.Text1Info">
+            <summary>
+            The Text1 item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.CELSYSBLR000241MSSQLSERVER16">
+            <summary>
+            The CELSYSBLR000241MSSQLSERVER16 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.StaticViewPropertiesDialogAppFolder.CELSYSBLR000241MSSQLSERVER16Info">
+            <summary>
+            The CELSYSBLR000241MSSQLSERVER16 item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder">
+            <summary>
+            The ExceptionMessageBoxFormAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ExceptionMessageBoxForm  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.Button1">
+            <summary>
+            The Button1 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.Button1Info">
+            <summary>
+            The Button1 item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.ShowDetails">
+            <summary>
+            The ShowDetails item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.ShowDetailsInfo">
+            <summary>
+            The ShowDetails item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.CellColumnHeaderTotalActiveAlertCoun">
+            <summary>
+            The CellColumnHeaderTotalActiveAlertCoun item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.CellColumnHeaderTotalActiveAlertCounInfo">
+            <summary>
+            The CellColumnHeaderTotalActiveAlertCoun item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.TextEditorEditArea">
+            <summary>
+            The TextEditorEditArea item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ExceptionMessageBoxFormAppFolder.TextEditorEditAreaInfo">
+            <summary>
+            The TextEditorEditArea item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder">
+            <summary>
+            The CustomCounterWizardAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new CustomCounterWizard  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.NextButton">
+            <summary>
+            The NextButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.NextButtonInfo">
+            <summary>
+            The NextButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.InstanceName">
+            <summary>
+            The InstanceName item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.InstanceNameInfo">
+            <summary>
+            The InstanceName item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.CancelButton">
+            <summary>
+            The CancelButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomCounterWizardAppFolder.CancelButtonInfo">
+            <summary>
+            The CancelButton item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.CustomSearchDialogBoxAppFolder">
+            <summary>
+            The CustomSearchDialogBoxAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.CustomSearchDialogBoxAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new CustomSearchDialogBox  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomSearchDialogBoxAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomSearchDialogBoxAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.CustomSearchDialogBoxAppFolder.SplitContainer1">
+            <summary>
+            The SplitContainer1 folder.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder">
+            <summary>
+            The SplitContainer1Folder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new SplitContainer1  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.BtnOk">
+            <summary>
+            The BtnOk item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.BtnOkInfo">
+            <summary>
+            The BtnOk item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.CELSYSBLR000241CELSYSWTC17">
+            <summary>
+            The CELSYSBLR000241CELSYSWTC17 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.CELSYSBLR000241CELSYSWTC17Info">
+            <summary>
+            The CELSYSBLR000241CELSYSWTC17 item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.SplitContainer1Folder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder">
+            <summary>
+            The NotificationRulesDialogAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new NotificationRulesDialog  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.AddButton">
+            <summary>
+            The AddButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.AddButtonInfo">
+            <summary>
+            The AddButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.CancelButton">
+            <summary>
+            The CancelButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRulesDialogAppFolder.CancelButtonInfo">
+            <summary>
+            The CancelButton item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder">
+            <summary>
+            The NotificationRuleDialogAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new NotificationRuleDialog  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.WhereTheSQLServerInstanceIsInAHr">
+            <summary>
+            The WhereTheSQLServerInstanceIsInAHr item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.WhereTheSQLServerInstanceIsInAHrInfo">
+            <summary>
+            The WhereTheSQLServerInstanceIsInAHr item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.CancelButton">
+            <summary>
+            The CancelButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.NotificationRuleDialogAppFolder.CancelButtonInfo">
+            <summary>
+            The CancelButton item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.BlankAppFolder">
+            <summary>
+            The BlankAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.BlankAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Blank  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.BlankAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.BlankAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.BlankAppFolder.SpecifiedList">
+            <summary>
+            The SpecifiedList item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.BlankAppFolder.SpecifiedListInfo">
+            <summary>
+            The SpecifiedList item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder">
+            <summary>
+            The ServerSelectionDialogAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ServerSelectionDialog  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.CELSYSBLR000241CELSYSWTC17">
+            <summary>
+            The CELSYSBLR000241CELSYSWTC17 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.CELSYSBLR000241CELSYSWTC17Info">
+            <summary>
+            The CELSYSBLR000241CELSYSWTC17 item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.BtnOK">
+            <summary>
+            The BtnOK item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ServerSelectionDialogAppFolder.BtnOKInfo">
+            <summary>
+            The BtnOK item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder">
+            <summary>
+            The ManageServersDialogAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ManageServersDialog  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.AddButton">
+            <summary>
+            The AddButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.AddButtonInfo">
+            <summary>
+            The AddButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.Button1">
+            <summary>
+            The Button1 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.Button1Info">
+            <summary>
+            The Button1 item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.OkButton">
+            <summary>
+            The OkButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.ManageServersDialogAppFolder.OkButtonInfo">
+            <summary>
+            The OkButton item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder">
+            <summary>
+            The AddServersWizardAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new AddServersWizard  folder.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.NextButton">
+            <summary>
+            The NextButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.NextButtonInfo">
+            <summary>
+            The NextButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.Password">
+            <summary>
+            The Password item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.PasswordInfo">
+            <summary>
+            The Password item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.AddInstancesButton">
+            <summary>
+            The AddInstancesButton item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.AddInstancesButtonInfo">
+            <summary>
+            The AddInstancesButton item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.EnableQueryMonitorTraceCheckBox">
+            <summary>
+            The EnableQueryMonitorTraceCheckBox item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.EnableQueryMonitorTraceCheckBoxInfo">
+            <summary>
+            The EnableQueryMonitorTraceCheckBox item info.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.NextButton1">
+            <summary>
+            The NextButton1 item.
+            </summary>
+        </member>
+        <member name="P:NewDM2.NewDM2RepositoryFolders.AddServersWizardAppFolder.NextButton1Info">
+            <summary>
+            The NextButton1 item info.
+            </summary>
+        </member>
+        <member name="T:NewDM2.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.Recording1.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.Search_CustomCounter_Instances1">
+             <summary>
+            The Search_CustomCounter_Instances1 recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.Search_CustomCounter_Instances1.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Search_CustomCounter_Instances1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.Search_CustomCounter_Instances1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Search_CustomCounter_Instances1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.Search_CustomCounter_Instances1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.Search_CustomCounter_Instances1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.Search_CustomCounter_Instances1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.StartAUT.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:NewDM2.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:NewDM2.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:NewDM2.ToolTip1">
+             <summary>
+            The ToolTip1 recording.
+             </summary>
+        </member>
+        <member name="F:NewDM2.ToolTip1.repo">
+            <summary>
+            Holds an instance of the NewDM2Repository repository.
+            </summary>
+        </member>
+        <member name="M:NewDM2.ToolTip1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:NewDM2.ToolTip1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:NewDM2.ToolTip1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:NewDM2.ToolTip1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:NewDM2.ToolTip1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:NewDM2.ToolTip1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="23a6755f-4598-4326-af21-3ec06cf72dcc"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="NewDM2">
+	</codegen>
+	<variables>
+		<var
+		id="b78d3235-d14e-42cd-b7ce-3cff980c0ad8"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Program Files\Idera\Idera SQL diagnostic manager\SQLdmDesktopClient.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="f23ca0c5-df30-413e-8505-f62244f4e60c"
+	name="NewDM2Repository"
+	relativepath="NewDM2Repository.rxrep">
+		<codegen
+		classname="NewDM2Repository"
+		namespace="NewDM2">
+		</codegen>
+		<rootfolder
+		id="a7e4b245-c6e1-4077-8b08-fc349955bf82"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

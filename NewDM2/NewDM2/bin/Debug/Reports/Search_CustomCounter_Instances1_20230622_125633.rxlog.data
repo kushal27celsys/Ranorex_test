@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="40.08s"
+		durationms="40080"
+		type="root"
+		rid="35462eca86dd0507"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="22-06-2023 12:56:35"
+		timestampiso="2023-06-22T07:26:35"
+		endtime="22-06-2023 12:57:15"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Search_CustomCounter_Instances1">
+		<detail>
+			Search_CustomCounter_Instances1
+		</detail>
+		<errormessage>
+			Failed to find item 'NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel'. Please check that your whitelist allows Ranorex to access the process.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.373"
+			timeRelativeToTestModuleStartTime="00:04.373"
+			timeWallClock="12:56:39"
+			time="00:04.373"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.Administration' at 54;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']//tabpagelist[@automationid='topMenu']/tabpage[@automationid='administrationMenu']/text[@caption='Administration']"
+				itempath=".//tabpagelist[@automationid='topMenu']/tabpage[@automationid='administrationMenu']/text[@caption='Administration']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.Administration"
+				id="ba495f1ee5ec4337b63f14d19c1d5876"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.590"
+			timeRelativeToTestModuleStartTime="00:06.590"
+			timeWallClock="12:56:42"
+			time="00:06.590"
+			level="Info"
+			category="Mouse"
+			errimg="images_Search_C_e4681eee\Search_C_e4681eee_22d04ec5_trace.jpg"
+			errthumb="images_Search_C_e4681eee\Search_C_e4681eee_22d04ec5_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel' at 47;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel"
+				id="1ef7ec1584994fa2939f57b3c8d59daa"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:36.665"
+			timeRelativeToTestModuleStartTime="00:36.665"
+			timeWallClock="12:57:12"
+			time="00:36.665"
+			level="Info"
+			category="User"
+			errimg="images_Search_C_e4681eee\Search_C_e4681eee_28e79cc2_trace.jpg"
+			errthumb="images_Search_C_e4681eee\Search_C_e4681eee_28e79cc2_trace_thumb.jpg">
+			<message>
+				Item 'FeatureHeaderLabel' was found using Robust path.
+			</message>
+			<metainfo
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="87"
+				loglvl="Info"
+				itemindex="1">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:39.985"
+			timeRelativeToTestModuleStartTime="00:39.985"
+			timeWallClock="12:57:15"
+			time="00:39.985"
+			level="Error"
+			category="Module"
+			errimg="images_Search_C_e4681eee\Search_C_e4681eee_42176740_trace.jpg"
+			errthumb="images_Search_C_e4681eee\Search_C_e4681eee_42176740_trace_thumb.jpg">
+			<message>
+				Failed to find item 'NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path 'statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']' at step 'descendant-or-self::text[@caption='Custom Counters' and @controlname='featureHeaderLabel']' after 7 attempts within 30s.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass81_0`1.&lt;Find>b__0()&#13;&#10;   at Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   at NewDM2.NewDM2RepositoryFolders.IDERASQLDiagnosticManagerSQLdmReposAppFolder.get_FeatureHeaderLabel() in C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\NewDM2Repository.cs:line 292&#13;&#10;   at NewDM2.Search_CustomCounter_Instances1.Ranorex.Core.Testing.ITestModule.Run() in C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs:line 87&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="87"
+				type="repoitem"
+				path="/form[@title>'IDERA SQL Diagnostic Manager']/statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']"
+				itempath="statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='featureButtonCustomCounter']/?/?/text[@caption='Custom Counters']"
+				fullname="NewDM2Repository.IDERASQLDiagnosticManagerSQLdmRepos.FeatureHeaderLabel"
+				id="1ef7ec1584994fa2939f57b3c8d59daa"
+				timeout="60000"
+				failedStep="descendant-or-self::text[@caption='Custom Counters' and @controlname='featureHeaderLabel']"
+				bestPathPrefix=""
+				loglvl="Error"
+				itemindex="1">
+			</metainfo>
+		</item>
+	</activity>
+</report>

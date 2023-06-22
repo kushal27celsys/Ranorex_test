@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="6.76s"
+		durationms="6758"
+		type="root"
+		rid="22985b3c0a8cde8"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="kushal.sj"
+		rxversion="10.7.0.0"
+		host="CELSYSBLR000241"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="22-06-2023 12:57:56"
+		timestampiso="2023-06-22T07:27:56"
+		endtime="22-06-2023 12:58:03"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Search_CustomCounter_Instances1">
+		<detail>
+			Search_CustomCounter_Instances1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.923"
+			timeRelativeToTestModuleStartTime="00:03.923"
+			timeWallClock="12:58:00"
+			time="00:03.923"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'CustomCounterWizard.InstanceName' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Add Custom Counter']/?/?/container[@controlname='ultraTabWmiCounterPage']/container[@controlname='wmiCounterPage']//combobox[@controlname='wmiServeSearchBox']/text[@name='Instance Name:']"
+				itempath="?/?/container[@controlname='ultraTabWmiCounterPage']/container[@controlname='wmiCounterPage']//combobox[@controlname='wmiServeSearchBox']/text[@name='Instance Name:']"
+				fullname="NewDM2Repository.CustomCounterWizard.InstanceName"
+				id="e0d4476cb7e84343a3626ae14691dd4a"
+				timeout="60000"
+				codefile="C:\Users\kushal.sj\Documents\Ranorex\RanorexStudio Projects\NewDM2\NewDM2\Search_CustomCounter_Instances1.cs"
+				codeline="82"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

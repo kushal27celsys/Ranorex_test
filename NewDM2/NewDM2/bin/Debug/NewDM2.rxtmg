@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="NewDM2"
+      id="87debd1d-b453-40f4-a4fc-97db899feef6"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="NewDM2"
+      id="87debd1d-b453-40f4-a4fc-97db899feef6"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
